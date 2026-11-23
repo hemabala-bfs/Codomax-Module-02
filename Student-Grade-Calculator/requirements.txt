@@ -1,0 +1,4 @@
+# Student Grade Calculator - Dependencies
+# This project is built entirely using the Python Standard Library.
+# No external third-party dependencies are required to run the application.
+# Compatible with Python 3.8 and above (Tested on Python 3.14.6).
