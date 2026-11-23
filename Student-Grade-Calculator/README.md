@@ -1,7 +1,7 @@
 # Student Grade Calculator 🎓
 
 **Codomax Digital Solutions – Python Internship Module 02 (Mini Project)**  
-*Author:* Hemabalaji R  
+*Author:* Hemabala J
 *Repository:* [Codomax-Module-02](https://github.com/hemabala-bfs/Codomax-Module-02)  
 
 ---
