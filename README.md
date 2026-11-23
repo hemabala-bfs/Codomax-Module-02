@@ -1,7 +1,7 @@
 # Codomax Internship – Module 02: Python Mini Project 🎓
 
 **Repository**: `Codomax-Module-02`  
-**Author**: Hemabalaji R  
+**Author**: Hemabala J 
 **Organization**: Codomax Digital Solutions  
 **Role**: AI & Python Intern  
 **Project Name**: Student Grade Calculator  
